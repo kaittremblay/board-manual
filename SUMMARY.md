@@ -10,7 +10,7 @@
   * [Officers of the Corporation](board-structure-and-roles/officers-of-the-corporation.md)
 * [Board Procedures](board-procedures.md)
   * [Board Meetings](board-meetings.md)
-  * Board Self-Assessment
+  * [Board Self-Assessment](board-self-assessment.md)
 * Committees
 * Policies
 * Membership

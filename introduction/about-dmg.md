@@ -18,7 +18,7 @@ We teach computing skills for artistic expression and professional development, 
 
 ### Vision
 
-DMG is building a future where everyone can express themselves freely through games, where play contributes to a more just and equitable world.
+**DMG is building a future where everyone can express themselves freely through games, where play contributes to a more just and equitable world.**
 
 Grounded in the heart of Toronto’s West Queen West neighbourhood, DMG is creating an accessible, diverse and collaborative space where anyone can engage meaningfully with computer games as media art. DMG integrates creation, production, presentation, education and critical practices and with a focus on community building and inclusivity.
 
@@ -28,7 +28,7 @@ Our vision and programming is open and adaptive, responding to the needs and wan
 
 ### Milieu
 
-DMG address all three streams of media art practice: Production, exhibition and distribution. Our members create and display their artworks using time-based technologies including computer and analog games, sound/audio, video, robotics and electronics, immersive and interactive, Web-based, electronics, radio and sound.  
+DMG addresses all three streams of media art practice: Production, exhibition and distribution. Our members create and display their artworks using time-based technologies including computer and analog games, sound/audio, video, robotics and electronics, immersive and interactive, Web-based, electronics, radio and sound. 
 Our sector is extremely well developed in Toronto, with over 40 organizations serving and supporting a broad community of media art makers.
 
 ### Values
@@ -49,6 +49,3 @@ Our sector is extremely well developed in Toronto, with over 40 organizations se
 * We are committed to developing, contributing to, experimenting with, promoting and sharing knowledge about free and open source tools and platforms.
 * We recognize this is ongoing work, that we make mistakes, and we must always push forward
 * We make, play and talk about games because they give us more power to shape the future.
-
-
-

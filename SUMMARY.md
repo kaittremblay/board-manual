@@ -14,5 +14,9 @@
 * [Committees](committees.md)
 * [Policies](policies.md)
   * [Communication Policy](communication-policy.md)
-* Membership
-
+  * [Finance Policy](finance-policy.md)
+  * [Governance Policy](governance-policy.md)
+  * [Conflict of Interest Policy](conflict-of-interest-policy.md)
+  * [Sponsorship and Fundraising Policy](sponsorship-and-fundraising-policy.md)
+  * [HR Policy](hr-policy.md)
+* [Membership](membership.md)

@@ -1,7 +1,5 @@
 # Summary
 
-## Summary
-
 * [Introduction](README.md)
 * [About DMG](about-dmg.md)
 * [Director Register](director-register.md)

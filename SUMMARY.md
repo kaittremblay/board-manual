@@ -11,7 +11,8 @@
 * [Board Procedures](board-procedures.md)
   * [Board Meetings](board-meetings.md)
   * [Board Self-Assessment](board-self-assessment.md)
-* Committees
-* Policies
+* [Committees](committees.md)
+* [Policies](policies.md)
+  * [Communication Policy](communication-policy.md)
 * Membership
 

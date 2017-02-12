@@ -1,1 +1,1 @@
-# board-manual
+# DMG Toronto Board Manual

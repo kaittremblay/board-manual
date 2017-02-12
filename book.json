@@ -1,0 +1,20 @@
+{
+    "plugins": [
+        "addcssjs"
+    ],
+    "pluginsConfig": {
+        "sharing": {
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "all": "facebook,google,twitter,weibo,instapaper"
+        },
+        "addcssjs": {
+            "js": "",
+            "css": "https://dmg.to/css/styles.css"
+        }
+    }
+}

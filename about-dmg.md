@@ -30,7 +30,7 @@ Our vision and programming is open and adaptive, responding to the needs and wan
 
 ### Milieu
 
-DMG addresses all three streams of media art practice: Production, exhibition and distribution. Our members create and display their artworks using time-based technologies including computer and analog games, sound/audio, video, robotics and electronics, immersive and interactive, Web-based, electronics, radio and sound. 
+DMG addresses all three streams of media art practice: Production, exhibition and distribution. Our members create and display their artworks using time-based technologies including computer and analog games, sound/audio, video, robotics and electronics, immersive and interactive, Web-based, electronics, radio and sound.   
 Our sector is extremely well developed in Toronto, with over 40 organizations serving and supporting a broad community of media art makers.
 
 ### Values
@@ -51,3 +51,6 @@ Our sector is extremely well developed in Toronto, with over 40 organizations se
 * We are committed to developing, contributing to, experimenting with, promoting and sharing knowledge about free and open source tools and platforms.
 * We recognize this is ongoing work, that we make mistakes, and we must always push forward
 * We make, play and talk about games because they give us more power to shape the future.
+
+
+

@@ -1,6 +1,6 @@
 # DMG Toronto Board Manual
 
-The Dames Making Games (“DMG”) Board Governance Manual defines the role of the Board and how it will carry out its responsibilities. This and the Bylaws are DMG’s primary governing documents.
+The Dames Making Games \(“DMG”\) Board Governance Manual defines the role of the Board and how it will carry out its responsibilities. This and the Bylaws are DMG’s primary governing documents.
 
 First drafted in 2012, the purpose of this document is to clarify the organization’s principles and goals, and define the roles and responsibilities of Board members as we aspire to fulfill our mission and vision.
 
@@ -10,9 +10,9 @@ First drafted in 2012, the purpose of this document is to clarify the organizati
 
 DMG grew out of grassroots community support and in response to a demonstrated need for more inclusive access to independent videogame arts and culture by providing community space and resources to artists working in the medium.
 
-DMG was first conceptualized in 2011 after participants in a one-off women-in-games program decided they wanted to form an ongoing collective. We were incorporated as a not-for-profit by the founding board of directors (Jennie Faber, Cecily Carver, and Alex Leitch) in 2012. Today, DMG has grown into an active organization with seasonal programming and exhibitions, supporting its 300+ Toronto members and the broader game arts and culture community.
+DMG was first conceptualized in 2011 after participants in a one-off women-in-games program decided they wanted to form an ongoing collective. We were incorporated as a not-for-profit by the founding board of directors \(Jennie Faber, Cecily Carver, and Alex Leitch\) in 2012. Today, DMG has grown into an active organization with seasonal programming and exhibitions, supporting its 300+ Toronto members and the broader game arts and culture community.
 
-DMG has presented over 150 artist talks, hosted 3 residency programs, presented hundreds of professional and artistic development workshops, participated in scholarly collaborations (OCAD, York University, ReFiG), exhibited member work locally and internationally (Different Games, Indiecade at the Museum of the Moving Image NYC), curated local (AGO First Thursdays, Long Winter) and international (Brandeis University, Boston Festival of Independent Games) shows, developed open-source technical tools and platforms (iV Engine, Soba, CODEX, Community Development Toolkit), and coordinated youth arts mentorship programs (the TAC and Canada Council-funded Indigicade in collaboration with Indigenous Routes).
+DMG has presented over 150 artist talks, hosted 3 residency programs, presented hundreds of professional and artistic development workshops, participated in scholarly collaborations \(OCAD, York University, ReFiG\), exhibited member work locally and internationally \(Different Games, Indiecade at the Museum of the Moving Image NYC\), curated local \(AGO First Thursdays, Long Winter\) and international \(Brandeis University, Boston Festival of Independent Games\) shows, developed open-source technical tools and platforms \(iV Engine, Soba, CODEX, Community Development Toolkit\), and coordinated youth arts mentorship programs \(the TAC and Canada Council-funded Indigicade in collaboration with Indigenous Routes\).
 
 ### Mission
 
@@ -34,64 +34,27 @@ Our vision and programming is open and adaptive, responding to the needs and wan
 
 ### Milieu
 
-DMG address all three streams of media art practice: Production, exhibition and distribution. Our members create and display their artworks using time-based technologies including computer and analog games, sound/audio, video, robotics and electronics, immersive and interactive, Web-based, electronics, radio and sound.
-Our sector is extremely well developed in Toronto, with over 40 organizations serving and supporting a broad community of media art makers. 
+DMG address all three streams of media art practice: Production, exhibition and distribution. Our members create and display their artworks using time-based technologies including computer and analog games, sound/audio, video, robotics and electronics, immersive and interactive, Web-based, electronics, radio and sound.  
+Our sector is extremely well developed in Toronto, with over 40 organizations serving and supporting a broad community of media art makers.
 
 ### Values
 
-- We value diversity and strive to a deep understanding of barriers to inclusion
-- We recognize and honour our visible and invisible differences
-- We value the labor that goes into defending and building equitable experiences
-- We value healing and restoration
-- We value friendship and trusting relationships
-- We value humility, openness and generosity
+* We value diversity and strive to a deep understanding of barriers to inclusion
+* We recognize and honour our visible and invisible differences
+* We value the labor that goes into defending and building equitable experiences
+* We value healing and restoration
+* We value friendship and trusting relationships
+* We value humility, openness and generosity
 
 ### Beliefs & Commitments
 
-- We are committed to the ongoing work of anti-oppression and anti-racism.
-- We believe game-making can be an act of resistance, giving creators ultimate agency in the expression of their identities, politics, selves, genders and sexualities. Our work has the power to transform our communities, and positively impact policies and practice.
-- We believe that creating space and time to make and talk about games in an explicitly feminist context elevates the craft, amplifies alternative and diverse narratives, and supports the socio-cultural changes that are necessary to make game design accessible to all.
-- We are interested in creating alternative forms of economic power grounded in solidarity, openness and collective values.
-- We are committed to developing, contributing to, experimenting with, promoting and sharing knowledge about free and open source tools and platforms.
-- We recognize this is ongoing work, that we make mistakes, and we must always push forward
-- We make, play and talk about games because they give us more power to shape the future.
-
-## Director Register
-
-**Chair of the board, president**
-
-Jennie Robinson Faber
-Aug 30, 2012
-
-**Vice-chair of the board**
-
-Izzie Colpitts-Campbell
-Nov 27, 2014
-
-**Members**
-
-Cecily Carver
-Aug 30, 2012
-
-Soha Kareem
-Nov 27, 2014
-
-Gabriela Aveiro-Ojeda
-Feb 28, 2016
-
-Meagan Byrne
-Jan 14, 2017
-
-Yifat Shaik
-Jan 19, 2017
-
-**Past Directors**
-
-Alex Leitch (Treasurer)
-Aug 30, 2012 – Dec 18, 2014
-
-Stephanie Fisher
-Nov 27, 2014 – April 7, 2015
+* We are committed to the ongoing work of anti-oppression and anti-racism.
+* We believe game-making can be an act of resistance, giving creators ultimate agency in the expression of their identities, politics, selves, genders and sexualities. Our work has the power to transform our communities, and positively impact policies and practice.
+* We believe that creating space and time to make and talk about games in an explicitly feminist context elevates the craft, amplifies alternative and diverse narratives, and supports the socio-cultural changes that are necessary to make game design accessible to all.
+* We are interested in creating alternative forms of economic power grounded in solidarity, openness and collective values.
+* We are committed to developing, contributing to, experimenting with, promoting and sharing knowledge about free and open source tools and platforms.
+* We recognize this is ongoing work, that we make mistakes, and we must always push forward
+* We make, play and talk about games because they give us more power to shape the future.
 
 ## Revisions
 

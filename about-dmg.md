@@ -1,5 +1,7 @@
 ## About DMG
 
+![](/assets/logo-grey.png)
+
 ### History
 
 DMG grew out of grassroots community support and in response to a demonstrated need for more inclusive access to independent videogame arts and culture by providing community space and resources to artists working in the medium.

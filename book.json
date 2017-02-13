@@ -1,8 +1,4 @@
 {
-    "plugins": [
-        "addcssjs",
-        "numbered-headings"
-    ],
     "pluginsConfig": {
         "sharing": {
             "facebook": false,

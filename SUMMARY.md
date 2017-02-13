@@ -18,3 +18,5 @@
   * [Sponsorship and Fundraising Policy](sponsorship-and-fundraising-policy.md)
   * [HR Policy](hr-policy.md)
 * [Membership](membership.md)
+* [By-Laws](by-laws.md)
+

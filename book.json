@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "addcssjs"
+        "addcssjs",
+        "numbered-headings"
     ],
     "pluginsConfig": {
         "sharing": {
@@ -11,10 +12,6 @@
             "instapaper": false,
             "vk": false,
             "all": "facebook,google,twitter,weibo,instapaper"
-        },
-        "addcssjs": {
-            "js": "",
-            "css": "https://dmg.to/css/styles.css"
         }
     }
 }

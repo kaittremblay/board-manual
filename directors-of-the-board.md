@@ -6,7 +6,7 @@ The directors of the board manage the affairs of the organization and to apply t
 
 ### Be informed
 
-* To be aware of and comply with all applicable government legislation and statutes, including the Corporations Act (ONCA), The Income Tax Act, Employment Insurance Act, Employment Standards Act, Occupational Health & Safety Act
+* Be aware of and comply with all applicable government legislation and statutes, including the Corporations Act (ONCA), The Income Tax Act, Employment Insurance Act, Employment Standards Act, Occupational Health & Safety Act
 * Learn and understand how DMG operates and become familiar with its Bylaws, procedures, operations and activities
 * Act responsibly, in good faith and in the best interest DMG, exercising the care, diligence and skill of a reasonably prudent person in exercising powers and performing the duties of a Director
 * Act cautiously and anticipate possible consequences of any course of action that the Board may choose to undertake.
@@ -14,11 +14,11 @@ The directors of the board manage the affairs of the organization and to apply t
 
 ### Maintain confidentiality
 
-Keep all sensitive (financial, personal, etc.) information in your custody or control by virtue of your position as a Director between you and your fellow Directors.
+Keep all sensitive (financial, personal, etc.) information in your custody or control by virtue of your position as a Director between you and your fellow Directors
 
 ### Be diligent and proactive
 
-Always act in the best interest of DMG and becoming as reasonably informed as possible with all aspects of its operations. To fulfill this duty, each Director is expected to:
+Always act in the best interest of DMG and become as reasonably informed as possible with all aspects of its operations. 
 
     * Review the agenda and supporting material in advance of each meeting
     * Regularly attend meetings of the Board and committees to which the Director is appointed
@@ -26,7 +26,7 @@ Always act in the best interest of DMG and becoming as reasonably informed as po
 
 ### Avoid conflict of interest
 
-Act at all times in the best interest of and in accordance with the [Conflict of Interest Policy](/conflict-of-interest-policy.md) of the organization.
+Act at all times in the best interest of and in accordance with the [Conflict of Interest Policy](/conflict-of-interest-policy.md)
 
 
 ### Board Member Code of Conduct
@@ -57,12 +57,11 @@ Act at all times in the best interest of and in accordance with the [Conflict of
 
 * Maintain trust through ongoing transparent communication
 * Share credit for the work of the organization with collaborators and contributors
-* Support the common agenda over individual agendas
-* Encourage conversations that build deep understanding of all perspectives, to learn together and to seek to build respect and trust
-- Honor peers and colleagues with openness, truthfulness and trust
-- Comply with the letter and spirit of the Ontario Human Rights Code and actively support an organizational culture of discrimination and harassment prevention
-- Support programming that reflects the diverse social and cultural fabric of artistic communities in which we operate
-- Treat other directors, staff, members and the public with respect, compassion and dignity demonstrating our values
+* Support the community agenda over individual agendas
+* Encourage conversations that build deep understanding of all perspectives, so we can learn together
+* Actively support the prevention of discrimination and harassment within the organization
+* Support programming that reflects the diverse social and cultural fabric of artistic communities in which we operate
+* Treat other directors, staff, members and the public with respect and trust, always demonstrating our values
 
 ### Remuneration
 

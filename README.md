@@ -1,6 +1,6 @@
 # DMG Toronto Board Manual
 
-The Dames Making Games \(“DMG”\) Board Governance Manual defines the role of the Board and how it will carry out its responsibilities. This and the Bylaws are DMG’s primary governing documents.
+The Dames Making Games \(“DMG”\) Board Manual defines the role of the Board and how it will carry out its responsibilities. This and the [By-Laws](/by-laws.md) are DMG’s primary governing documents.
 
 First drafted in 2012, the purpose of this document is to clarify the organization’s principles and goals, and define the roles and responsibilities of Board members as we aspire to fulfill our mission and vision.
 

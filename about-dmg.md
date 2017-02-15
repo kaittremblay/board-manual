@@ -20,7 +20,7 @@ We teach computing skills for artistic expression, offer production and exhibiti
 
 **DMG is building a future where everyone can express themselves freely through games, where play contributes to a more just and equitable world.**
 
-Grounded in the heart of Toronto’s West Queen West neighbourhood, DMG is creating an accessible, diverse and collaborative space where anyone can engage meaningfully with computer games as media art. DMG integrates creation, production, presentation, education and critical practices and with a focus on community building and inclusivity.
+Grounded in the heart of Toronto’s West Queen West neighbourhood, DMG is creating an accessible, diverse and collaborative space where anyone can engage meaningfully with computer games, digital art and immersive media art. DMG integrates creation, production, presentation, education and critical practices with a focus on community building and inclusivity.
 
 With year-round arts and cultural programming, an equipment library, dedicated public gallery, coworking and social areas, we provide our members and the broader game arts community the tools, space and freedom to play.
 

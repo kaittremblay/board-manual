@@ -12,17 +12,15 @@ DMG has presented over 150 artist talks, hosted 3 residency programs, presented 
 
 ### Mission
 
-**DMG is a not-for-profit video game arts organization that creates space for women, queer and nonbinary people to make, play and critique games.**
+**DMG is a not-for-profit video game arts organization that creates space for everyone marginalized in tech spaces – especially trans & cis women, queer, femme, nonbinary and Two Spirit people – to make, play and critique video games.**
 
-DMG creates opportunities for individuals who are marginalized in tech spaces – especially trans & cis women, queer, femme, nonbinary and Two Spirit people – to make, play and critique games freely.
-
-We teach computing skills for artistic expression and professional development, and offer production, exhibition and a collaborative community to support the creation of new media artworks.
+We teach computing skills for artistic expression, offer production and exhibition facilities, and provide community support for the creation of new media artworks.
 
 ### Vision
 
 **DMG is building a future where everyone can express themselves freely through games, where play contributes to a more just and equitable world.**
 
-Grounded in the heart of Toronto’s West Queen West neighbourhood, DMG is creating an accessible, diverse and collaborative space where anyone can engage meaningfully with computer games as media art. DMG integrates creation, production, presentation, education and critical practices and with a focus on community building and inclusivity.
+Grounded in the heart of Toronto’s West Queen West neighbourhood, DMG is creating an accessible, diverse and collaborative space where anyone can engage meaningfully with computer games, digital art and immersive media art. DMG integrates creation, production, presentation, education and critical practices with a focus on community building and inclusivity.
 
 With year-round arts and cultural programming, an equipment library, dedicated public gallery, coworking and social areas, we provide our members and the broader game arts community the tools, space and freedom to play.
 

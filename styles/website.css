@@ -1,7 +1,6 @@
 /* CSS for website */
 
-body {
-    font-family: Courier;
+.gitbook-link {
+display: none !important;
 }
-
 

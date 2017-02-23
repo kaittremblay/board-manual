@@ -1,6 +1,6 @@
 ## About DMG
 
-![](/assets/logo-grey.png)
+![](/assets/dmg_toronto_dames_making_games_logo-for-google.png)
 
 ### History
 

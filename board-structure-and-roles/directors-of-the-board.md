@@ -20,9 +20,9 @@ Keep all sensitive (financial, personal, etc.) information in your custody or co
 
 Always act in the best interest of DMG and become as reasonably informed as possible with all aspects of its operations. 
 
-    * Review the agenda and supporting material in advance of each meeting
-    * Regularly attend meetings of the Board and committees to which the Director is appointed
-    * Vote on matters that come before the Board
+* Review the agenda and supporting material in advance of each meeting
+* Regularly attend meetings of the Board and committees to which the Director is appointed
+* Vote on matters that come before the Board
 
 ### Avoid conflict of interest
 

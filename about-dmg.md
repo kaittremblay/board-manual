@@ -12,7 +12,7 @@ DMG has presented over 150 artist talks, hosted 3 residency programs, presented 
 
 ### Mission
 
-**DMG is a not-for-profit video game arts organization that creates space for everyone marginalized in tech spaces – especially trans & cis women, queer, femme, nonbinary and Two Spirit people – to make, play and critique video games.**
+**DMG is a not-for-profit video game arts organization that supports people marginalized in tech spaces – especially genderqueer, nonbinary, femme people, Two Spirit people, and trans and cis women – to make, play and critique video games.**
 
 We teach computing skills for artistic expression, offer production and exhibition facilities, and provide community support for the creation of new media artworks.
 

@@ -11,7 +11,7 @@
   * [Board Self-Assessment](board-procedures/board-self-assessment.md)
 * [Committees](committees/README.md)
   * [Community Promotion](committees/community-care.md)
-  * Programming & Education
+  * [Programming & Education](committees/programming-and-education.md)
 * [Policies](policies/README.md)
   * [Communication Policy](policies/communication-policy.md)
   * [Finance Policy](policies/finance-policy.md)

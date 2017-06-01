@@ -7,7 +7,7 @@ The Board may appoint committees whose members will hold office at the will of t
 The following committees have been formed according to these governing terms:
 
 * Conflict Resolution
-* Public Relations
+* Community Promotion
 * Programming & Education
 * Resource Development & Fundraising
 * Executive

@@ -10,6 +10,8 @@
   * [Board Meetings](board-procedures/board-meetings.md)
   * [Board Self-Assessment](board-procedures/board-self-assessment.md)
 * [Committees](committees/README.md)
+  * [Community Promotion](committees/community-care.md)
+  * Programming & Education
 * [Policies](policies/README.md)
   * [Communication Policy](policies/communication-policy.md)
   * [Finance Policy](policies/finance-policy.md)
@@ -19,3 +21,4 @@
   * [HR Policy](policies/hr-policy.md)
 * [Membership](membership/README.md)
 * [By-Laws](by-laws/README.md)
+

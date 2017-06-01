@@ -13,6 +13,7 @@
   * [Community Promotion](committees/community-care.md)
   * [Programming & Education](committees/programming-and-education.md)
   * [Resource Development](committees/resource-development.md)
+  * [Conflict Resolution](committees/conflict-resolution.md)
   * [Terms of Reference](committees/terms-of-reference.md)
 * [Policies](policies/README.md)
   * [Communication Policy](policies/communication-policy.md)

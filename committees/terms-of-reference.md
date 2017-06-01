@@ -23,7 +23,7 @@ The chair is responsible for:
 
 ### Committee Procedures
 
-Each committee may maintain its own terms of reference, laying out frequency of meetings, composition and procedures. Additionally, the following rules apply to all committees:
+The following rules apply to all committees, but each committee may maintain its own terms of reference which may in part supersede these terms.
 
 * Committee meetings are open to any staff or board members who wish to attend without vote.
 * Minutes must be taken at all committee meetings. A copy of all committee minutes should be made available to all board and staff members within 30 days of the meeting.

@@ -23,5 +23,4 @@
   * [Sponsorship and Fundraising Policy](policies/sponsorship-and-fundraising-policy.md)
   * [HR Policy](policies/hr-policy.md)
 * [Membership](membership/README.md)
-* Terms of Reference
 

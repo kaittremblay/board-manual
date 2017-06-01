@@ -1,4 +1,4 @@
-# Programming & Education
+# Programming
 
 This committee is governed by the joint [Terms of Reference](/committees/terms-of-reference.md).
 
@@ -6,6 +6,7 @@ This committee is governed by the joint [Terms of Reference](/committees/terms-o
 
 * **Co-chairs:** Jennie Robinson Faber & Izzie Colpitts-Campbell
 * **Members:** Yifat Shaik, Gabby DaRienzo, Kim Koronya, Jen Costa
+
 
 
 ## Lines of Communication
@@ -29,7 +30,7 @@ Responsible for long-term planning and execution of all regular and major progr
 	
 Plans 2 seasons ahead, determining topics, speakers, projects of interest to members and relevant to **yearly mandate.**
 
-This includes:
+This includes **events** and **education**:
 
 * Speaker socials (monthly)
 * Workshops (monthly)
@@ -40,7 +41,13 @@ This includes:
 * Exhibitions and commissions
 * Joint programming (e.g., Indigicade) and co-presentations
 
-The Programming committee is supported by the Volunteer subcommittee, whose responsibilities are to:
+The Programming committee is supported by several subcommittees.
+
+### Social Squad Subcommittee
+
+The Social Squad plans parties, social events, game nights, outings and field trips.
+
+### Volunteer Subcommittee
 
 * Determine mentor, volunteer, and staff needs for all events held at ourheadquarters.
 * Communicate with volunteers, assign roles, and assist Programming Committee as needed.

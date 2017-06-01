@@ -1,4 +1,4 @@
-# Board Structure and Roles
+#  Board Structure and Roles
 
 ## Composition
 

@@ -1,5 +1,6 @@
-# Community Promotion Terms of Reference
+# Community Promotion
 
+This committee is governed by the joint [Terms of Reference](/committees/terms-of-reference.md).
 
 ## Current Members
 

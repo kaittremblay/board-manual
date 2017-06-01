@@ -12,6 +12,8 @@
 * [Committees](committees/README.md)
   * [Community Promotion](committees/community-care.md)
   * [Programming & Education](committees/programming-and-education.md)
+  * [Resource Development](committees/resource-development.md)
+  * [Terms of Reference](committees/terms-of-reference.md)
 * [Policies](policies/README.md)
   * [Communication Policy](policies/communication-policy.md)
   * [Finance Policy](policies/finance-policy.md)
@@ -20,5 +22,5 @@
   * [Sponsorship and Fundraising Policy](policies/sponsorship-and-fundraising-policy.md)
   * [HR Policy](policies/hr-policy.md)
 * [Membership](membership/README.md)
-* [By-Laws](by-laws/README.md)
+* Terms of Reference
 

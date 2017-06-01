@@ -4,8 +4,8 @@ This committee is governed by the joint [Terms of Reference](/committees/terms-o
 
 ## Current Members
 
-**Co-chairs:** Gabby DaRienzo & Jennie Robinson Faber
-**Members:** Izzie Colpitts-Campbell
+* **Chair:** Gabby DaRienzo
+* **Members:** Izzie Colpitts-Campbell & Jennie Robinson Faber
 
 
 ## Responsibilities

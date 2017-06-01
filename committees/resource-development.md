@@ -1,7 +1,13 @@
-# Programming & Education
+# Resource Development
+
+This committee is governed by the joint [Terms of Reference](/committees/terms-of-reference.md).
 
 ## Current Members
 
+**Chair:** Vacant
+**Members:** Izzie Colpitts-Campbell, Jennie Robinson Faber, Natalie Zina-Walschots, Blanche Israël
+
+## Responsibilities
 
 Supports DMG's goal of developing sustainable financial support through a balance of corporate and community partnerships and sponsorships, arts council funding and earned revenue.
 

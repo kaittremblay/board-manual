@@ -1,5 +1,7 @@
 # Programming & Education
 
+This committee is governed by the joint [Terms of Reference](/committees/terms-of-reference.md).
+
 ## Current Members
 
 **Co-chairs:** Jennie Robinson Faber & Izzie Colpitts-Campbell

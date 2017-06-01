@@ -4,8 +4,8 @@ This committee is governed by the joint [Terms of Reference](/committees/terms-o
 
 ## Current Members
 
-**Chair:** Vacant
-**Members:** Izzie Colpitts-Campbell, Jennie Robinson Faber, Natalie Zina-Walschots, Blanche Israël
+* **Chair:** Vacant
+* **Members:** Izzie Colpitts-Campbell, Jennie Robinson Faber, Natalie Zina-Walschots, Blanche Israël
 
 ## Responsibilities
 

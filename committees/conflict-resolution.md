@@ -6,9 +6,9 @@ Please also refer to the [Conflict Resolution Policy](https://manual.dmg.to/poli
 
 ## Current Members
 
-**Co-chairs:** Izzie Colpitts-Campbell & Gabriela Aveiro-Ojeda
-**Members:** Jen Costa, Kaitlin Tremblay
-**Ex-officio:** Jennie Robinson Faber
+* **Co-chairs:** Izzie Colpitts-Campbell & Gabriela Aveiro-Ojeda
+* **Members:** Jen Costa, Kaitlin Tremblay
+* **Ex-officio:** Jennie Robinson Faber
 
 ## Lines of Communication
 

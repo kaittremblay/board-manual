@@ -6,10 +6,9 @@ The Board may appoint committees whose members will hold office at the will of t
 
 The following committees have been formed according to these governing terms:
 
-* Conflict Resolution
-* Community Promotion
-* Programming & Education
-* Resource Development
-* Executive
+* [Conflict Resolution](/committees/conflict-resolution.md)
+* [Community Promotion](/committees/community-care.md)
+* [Programming & Education](/committees/programming-and-education.md)
+* [Resource Development](/committees/resource-development.md)
 
 Individual committee mandates and additional terms of reference will be drafted by each committee, approved by the Board, and may be amended from time to time with approval of the Board.

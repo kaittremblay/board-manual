@@ -14,7 +14,7 @@ This committee is governed by the joint [Terms of Reference](/committees/terms-o
 To ensure transparency for current and future committee members, committee business must be communicated and documented (in the case of offline conversations and decisions) through a dedicated Basecamp project for the committee.
 
 * Additional Basecamp projects for committee projects may be created at thechair’s discretion. For example, the committee might start a new Basecamp project for a workshop series or long program, or if curriculum or other content will be developed over time. Non-committee members, outside coordinators,and clients can be looped in to a subset of content.
-* The committee’s dedicated Slack channel should be used instead of email or Basecamp for roughing out ideas and general chatter about projects andscheduling.
+* The committee’s dedicated Slack channel should be used instead of email or Basecamp for roughing out ideas and general chatter about projects and scheduling.
 
 ## Responsibilities
 

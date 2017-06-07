@@ -24,6 +24,7 @@ Responsible for long-term planning and execution of all regular and major progr
 - Manage the lifecycle of each event:
 	- Proposal
 	- Planning/Scheduling
+	- Budgeting
 	- Promotion
 	- Leader Prep/Support
 	- Day-of/Volunteers and mentors

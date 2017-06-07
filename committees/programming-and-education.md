@@ -4,8 +4,8 @@ This committee is governed by the joint [Terms of Reference](/committees/terms-o
 
 ## Current Members
 
-* **Co-chairs:** Jennie Robinson Faber & Izzie Colpitts-Campbell
-* **Members:** Yifat Shaik, Gabby DaRienzo, Kim Koronya, Jen Costa, Kaitlin Tremblay
+* **Chair:** Izzie Colpitts-Campbell
+* **Members:** Yifat Shaik, Jennie Robinson Faber, Gabby DaRienzo, Kim Koronya, Jen Costa, Kaitlin Tremblay
 
 
 

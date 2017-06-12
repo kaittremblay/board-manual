@@ -50,6 +50,8 @@ The Social Squad plans parties, social events, game nights, outings and field tr
 
 ### Volunteer Subcommittee
 
+**Chair:** Alicia Francis, volunteer coordinator
+
 * Determine mentor, volunteer, and staff needs for all events held at ourheadquarters.
 * Communicate with volunteers, assign roles, and assist Programming Committee as needed.
 * Manage volunteer pool.

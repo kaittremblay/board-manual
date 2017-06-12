@@ -4,14 +4,14 @@ This committee is governed by the joint [Terms of Reference](/committees/terms-o
 
 ## Current Members
 
-* **Chair:** Gabby DaRienzo
-* **Members:** Izzie Colpitts-Campbell & Jennie Robinson Faber
+* **Chair:** [Sophia Park](mailto:sophia@dmg.to)
+* **Members:** Elliot Pines, Harriet Horobin-Worley, Kaitlin Tremblay, Natalie Zina Walschots
 
 
 ## Responsibilities
 
 1. Plan and coordinate external communications including:
- * monthly email newsletter,
+ * monthly email newsletter
  * social media campaigns
  * general daily promotion of DMG events and member projects
 2. Actively research and signal boost mentions and exhibitions of member work via Twitter, Facebook, and blog posts on the DMG site

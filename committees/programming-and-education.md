@@ -5,20 +5,13 @@ This committee is governed by the joint [Terms of Reference](/committees/terms-o
 ## Current Members
 
 * **Chair:** Izzie Colpitts-Campbell
-* **Members:** Yifat Shaik, Jennie Robinson Faber, Gabby DaRienzo, Kim Koronya, Jen Costa, Kaitlin Tremblay
+* **Members:** Yifat Shaik, Jennie Robinson Faber, Kim Koronya, Jen Costa, Kaitlin Tremblay
 
-
-
-## Lines of Communication
-
-To ensure transparency for current and future committee members, committee business must be communicated and documented (in the case of offline conversations and decisions) through a dedicated Basecamp project for the committee.
-
-* Additional Basecamp projects for committee projects may be created at thechair’s discretion. For example, the committee might start a new Basecamp project for a workshop series or long program, or if curriculum or other content will be developed over time. Non-committee members, outside coordinators,and clients can be looped in to a subset of content.
-* The committee’s dedicated Slack channel should be used instead of email or Basecamp for roughing out ideas and general chatter about projects and scheduling.
 
 ## Responsibilities
 
-Responsible for long-term planning and execution of all regular and major programming and events.
+Responsible for long-term planning and execution of all regular and major 
+programming and events.
 
 - Organize upcoming programming by season
 - Manage the lifecycle of each event:
@@ -40,7 +33,8 @@ This includes **events** and **education**:
 * Game jams (every 3 months)
 * Artists in residence (2 times per year)
 * Exhibitions and commissions
-* Joint programming (e.g., Indigicade) and co-presentations
+* Joint programming (e.g., Indigicade)
+ and co-presentations
 
 The Programming committee is supported by several subcommittees.
 
@@ -52,7 +46,8 @@ The Social Squad plans parties, social events, game nights, outings and field tr
 
 **Chair:** Alicia Francis, volunteer coordinator
 
-* Determine mentor, volunteer, and staff needs for all events held at ourheadquarters.
+* Determine mentor, volunteer, and staff needs for all events held at our
+headquarters.
 * Communicate with volunteers, assign roles, and assist Programming Committee as needed.
 * Manage volunteer pool.
 * Plan and coordinate some ad hoc events, such as offsite social events, game nights, etc.

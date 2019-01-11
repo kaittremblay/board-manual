@@ -32,3 +32,11 @@ The following rules apply to all committees, but each committee may maintain its
 * Two out of 4 members constitutes a quorum; chair or co-chair must be in attendance.
 * Minutes should be posted to the committee’s Basecamp project in a timely manner.
 * Major new projects should be brought to the board for approval at a meeting of the directors, or if timeliness is an issue, sooner via Basecamp.
+
+## Lines of Communication
+
+To ensure transparency for current and future committee members, committee business must be communicated and documented (in the case of offline conversations and decisions) through a dedicated Basecamp project for the committee.
+
+* Additional Basecamp projects for committee projects may be created at the chair’s discretion. For example, the committee might start a new Basecamp project for a workshop series or long program, or if curriculum or other content
+ will be developed over time. Non-committee members and outside coordinators can be looped in to a subset of content.
+* The committee’s dedicated Slack channel should be used instead of email or Basecamp for roughing out ideas and general chatter about projects and scheduling.

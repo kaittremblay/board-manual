@@ -4,7 +4,7 @@ This committee is governed by the joint [Terms of Reference](/committees/terms-o
 
 ## Current Members
 
-* **Chair:** Vacant
+* **Chair:** Natalie Zina Walschots
 * **Members:** Vacant
 
 ## Responsibilities

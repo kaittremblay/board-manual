@@ -5,9 +5,9 @@
 | Natalie Zina Walschots | | Jan 12, 2019 | |
 | Bee Goodwin | | Jan 12, 2019 | |
 | Kaitlin Tremblay | | Jan 12, 2019 | |
-| Jayd Matyas | | Dec 12, 2018 | |
-| Yifat Shaik | Treasurer | Jan 19, 2017 | |
-| Meagan Byrne | Secretary | Jan 14, 2017 | |
+| Jayd Matyas | Secretary | Dec 12, 2018 | |
+| Yifat Shaik |  | Jan 19, 2017 | |
+| Meagan Byrne | Treasurer | Jan 14, 2017 | |
 | Gabriela Aveiro-Ojeda | Vice chair, vice president | Feb 28, 2016 | |
 | Soha Kareem | | Nov 27, 2014 | |
 | Izzie Colpitts-Campbell | Chair, president | Nov 27, 2014 | |

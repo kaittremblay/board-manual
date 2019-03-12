@@ -5,7 +5,7 @@ This committee is governed by the joint [Terms of Reference](/committees/terms-o
 ## Current Members
 
 * **Chair:** Natalie Zina Walschots
-* **Members:** Vacant
+* **Members:** Mikki Benaglia, Mic Fok, Nicole Vella
 
 ## Responsibilities
 
